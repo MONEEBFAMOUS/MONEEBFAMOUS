@@ -25,7 +25,7 @@ STM32 firmware development (drivers, bootloaders, FreeRTOS tasks) | Hardware-sof
 - Image Processing & AI: Implementing advanced algorithms to solve complex problems
 - STM32-FreeRTOS Integration: Robust firmware development for mission-critical systems, various avionics modules, embedded and iot devices.
 
-## 🌐 Professional Experience
+## 🌐 Professional Experience 5+ Years
 
 - Senior Embedded Engineer (NASTP): Specializing in UAV development, robotics, and advanced embedded systems
 - UAV Developer & Pilot (POF): Designing, building, and piloting various types of unmanned aerial vehicles
