@@ -2,17 +2,17 @@ I'm an Embedded Engineer with 5+ years of experience specializing in UAV systems
 
 ## 🔧 Skills & Expertise
 
-Microcontrollers: STM32, ESP32, Raspberry Pi
-Programming: Embedded C, C/C++, Python, Bash, Linux
-RTOS & Systems: FreeRTOS, Microcontroller Programming
-UAV Development: Fixed-wing, VTOL, Multirotors, Flight controller porting
-Robotics: ROS2 platform, Gazebo Simulations, Ardupilot/PX4 development
-Sensor Integration: LiDAR, Radar, Cameras, Mission computers
-Communication: CAN, UART, I2C, SPI, RS422, Ethernet, Wifi etc.
-Engineering: Electrical Engineering, Systems Engineering
-Development Practices: Technical Writing, Code Review, Troubleshooting
-Advanced Technologies: Artificial Intelligence, Machine Learning
-Tools & Platforms: Keil MDK, STM32CubeIDE, GCC, Git/GitHub
+- Microcontrollers: STM32, ESP32, Raspberry Pi
+- Programming: Embedded C, C/C++, Python, Bash, Linux
+- RTOS & Systems: FreeRTOS, Microcontroller Programming
+- UAV Development: Fixed-wing, VTOL, Multirotors, Flight controller porting
+- Robotics: ROS2 platform, Gazebo Simulations, Ardupilot/PX4 development
+- Sensor Integration: LiDAR, Radar, Cameras, Mission computers
+- Communication: CAN, UART, I2C, SPI, RS422, Ethernet, Wifi etc.
+- Engineering: Electrical Engineering, Systems Engineering
+- Development Practices: Technical Writing, Code Review, Troubleshooting
+- Advanced Technologies: Artificial Intelligence, Machine Learning
+- Tools & Platforms: Keil MDK, STM32CubeIDE, GCC, Git/GitHub
 
 ## 🌱 Professional Services
 
