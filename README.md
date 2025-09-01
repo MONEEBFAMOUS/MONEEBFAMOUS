@@ -1,4 +1,4 @@
-I'm an Embedded Engineer with 5+ years of experience specializing in UAV systems development, STM32 firmware development, RTOS implementation, and hardware-software integration. I construct large multirotors, VTOLs, and fixed-wing aircraft while implementing cutting-edge solutions for complex robotics challenges.
+I'm an Embedded Engineer with 5+ years of experience specializing in UAV systems development, STM32 firmware development, RTOS implementation, and hardware-software integration. I construct large multirotors, VTOLs, and fixed-wing aircraft while implementing cutting-edge solutions for complex robotics challenges and i am stil leveling up.
 
 ## 🔧 Skills & Expertise
 
